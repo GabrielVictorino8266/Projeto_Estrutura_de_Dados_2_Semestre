@@ -41,3 +41,22 @@ Neste projeto, você irá desenvolver um **gerenciador de cartelas de Bingo**.
 6. **Relatório dos Números Chamados**  
    O programa deve informar quais números foram chamados. Por exemplo, se os números chamados forem:
 
+
+
+
+Referencias de Materiais de estudo:
+
+
+https://www.youtube.com/watch?v=_byMWMrwEdU&t=16s
+
+https://www.youtube.com/watch?v=ucupombJuUM&list=PL3ZslI15yo2r-gHJtjORRMRKMSNRpf7u5
+
+https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/
+
+https://www.geeksforgeeks.org/data-structures/
+
+https://sae.unb.br/cae/conteudo/unbfga/cb/new_alocacaodinamica.html#:~:text=A%20aloca%C3%A7%C3%A3o%20din%C3%A2mica%20permite%20ao,o%20programa%20est%C3%A1%20sendo%20executado.
+
+https://www.youtube.com/watch?v=suCM0jnRl6k
+
+https://stackoverflow.com/questions/74244578/how-can-i-reshape-a-2d-array-into-1d-in-python
