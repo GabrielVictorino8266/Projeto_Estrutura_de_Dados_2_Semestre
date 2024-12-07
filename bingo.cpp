@@ -89,7 +89,6 @@ int main() {
         }
     } while (escolha != 0); // Continua o loop até o usuário escolher sair
 
-    // libera da memoria
     delete[] cartelas;
 
     return 0;
