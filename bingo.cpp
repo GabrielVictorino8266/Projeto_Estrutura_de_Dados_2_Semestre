@@ -1,5 +1,5 @@
 #include <iostream>
-#include <fstream>
+#include <fstream> // lida com arquivos
 #include <cstdlib>
 #include <ctime>
 
@@ -163,7 +163,7 @@ void gerar_cartela(Cartela& cartela) {
 }
 
 // Função para gerar múltiplas cartelas
-void gerar_multiplas_cartelas(Cartela*& cartelas, int& num_cartelas) {
+void gerar_multiplas_cartelas(Cartela*& cartelas, int& num_cartelas) {// ponteiro de ponteiro para cartelas, para alterar passando a referencia do ponteiro para alteracoes na main e nao apenas no escopo atual
     cout << "Quantas cartelas deseja gerar? ";
     cin >> num_cartelas; // le a quantidade de cartelas que se quer gerar
 
